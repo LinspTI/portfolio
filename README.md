@@ -1,8 +1,10 @@
-# **Lincoln Sposito, PhD**
-
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQFPxy_S3s23FA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674663734238?e=1741824000&v=beta&t=2jFfGdlg-cgLzhGnPPjdCVbMkOhfY1pGSJN40LWfv40" alt="Banner" style="width:100%; height:auto;">
 </div>
+
+# **Lincoln Sposito (PhD)** 
+## **Data Scientist | Machine Learning Engineering | Researcher | Professor**
+---
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E03AQE_oWD5pxfk1Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1674679886799?e=1741824000&v=beta&t=lhGAhGUUX-Hq8zTPLZ2KLLsCTl3HDH0m6Wq4gsxXutk" alt="Profile Picture" style="width:150px; height:auto; border-radius:50%;">
